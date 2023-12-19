@@ -10,12 +10,12 @@ env:
   PNPM_VERSION: 8.5.1
   PYTHON_VERSION: 3.10.13
   NODE_VERSION: 18
-  AZURE_RESOURCE_GROUP_NAME: "azure-ml-charles4242"
+  AZURE_RESOURCE_GROUP_NAME: "azure-ml-charles"
   AZURE_LOCATION: "northeurope"
-  AZURE_ML_WORKSPACE_NAME: "cats-dogs-charles4242"
-  AZURE_WEBAPP_NAME: "cats-dogs-charles4242"
+  AZURE_ML_WORKSPACE_NAME: "cats-dogs-charles"
+  AZURE_WEBAPP_NAME: "cats-dogs-charles"
   DELETE_WEBAPP: "false"
-  DOCKER_IMAGE_NAME: "robertcarry/mlopspython-charles4242"
+  DOCKER_IMAGE_NAME: "robertcarry/mlopspython-charles"
 
 permissions:
   id-token: write
