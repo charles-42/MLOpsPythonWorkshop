@@ -68,7 +68,7 @@ https://www.microsoftazurepass.com/Home/HowTo?WT.mc_id=DOP-MVP-5003370
 2. Open a Bash Terminal then run
 ````bach
 chmod +x ./init_repository.sh
-./init_repository.ps1
+./init_repository.sh
 ````
 
 
